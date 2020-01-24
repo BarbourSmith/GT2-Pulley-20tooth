@@ -7,6 +7,3 @@
 ## GT2 Pulley 20tooth
 
 
-undefined
-
-

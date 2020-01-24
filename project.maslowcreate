@@ -173,21 +173,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "Add BOM Tag",
-                    "name": "Add BOM Tag",
-                    "x": 1075,
-                    "y": 218,
-                    "uniqueID": 903807,
-                    "ioValues": [],
-                    "BOMitem": {
-                        "BOMitemName": "GT2 Pulley",
-                        "numberNeeded": 1,
-                        "costUSD": 1.678,
-                        "source": "https://www.amazon.com/ZRM-Timing-Pulley-Printer-Accessory/dp/B07L54BSXS",
-                        "totalNeeded": 0
-                    }
-                },
-                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -275,16 +260,9 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 874833,
-                    "ap2ID": 903807
-                },
-                {
-                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap2Primary": false,
-                    "ap1ID": 903807
+                    "ap1ID": 874833
                 }
             ],
             "fileTypeVersion": 1
