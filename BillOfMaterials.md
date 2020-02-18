@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|GT2 Pulley|2|$6.71|https://www.amazon.com/ZRM-Timing-Pulley-Printer-Accessory/dp/B07L54BSXS|
+|Total: |2|$6.71| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $20.13

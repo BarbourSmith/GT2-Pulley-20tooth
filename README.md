@@ -4,6 +4,3 @@
 
 ![](/project.svg)
 
-## GT2 Pulley 20tooth
-
-
